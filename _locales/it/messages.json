@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "YouTube No Playlist!",
+    "description": "Nome dell'estensione"
+  },
+  "extDescription": {
+    "message": "Apri i video di playlist di YouTube senza la playlist in una nuova scheda.",
+    "description": "Descrizione dell'estensione"
+  },
+  "menuItemName": {
+    "message": "Riproduci video senza playlist",
+    "description": "Nome della voce di menu contestuale che questa estensione crea"
+  }
+}

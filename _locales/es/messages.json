@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "YouTube No Playlist!",
+    "description": "Nombre de la extensión"
+  },
+  "extDescription": {
+    "message": "Abra los videos de la lista de reproducción de YouTube sin la lista de reproducción en una nueva pestaña.",
+    "description": "Descripción de la extensión"
+  },
+  "menuItemName": {
+    "message": "Reproducir video sin lista de reproducción",
+    "description": "Nombre del elemento del menú contextual que crea esta extensión"
+  }
+}

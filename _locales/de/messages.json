@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "YouTube No Playlist!",
+    "description": "Name der Erweiterung"
+  },
+  "extDescription": {
+    "message": "Öffnen Sie YouTube -Playlist -Videos ohne die Wiedergabeliste in einer neuen Registerkarte.",
+    "description": "Beschreibung der Erweiterung"
+  },
+  "menuItemName": {
+    "message": "Video ohne Wiedergabeliste abspielen",
+    "description": "Name des Kontextmenüelements, den diese Erweiterung erstellt"
+  }
+}

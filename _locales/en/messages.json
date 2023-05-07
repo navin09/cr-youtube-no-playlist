@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "YouTube No Playlist!",
+    "description": "Name of the extension"
+  },
+  "extDescription": {
+    "message": "Open YouTube playlist videos without the playlist in a new tab.",
+    "description": "Description of the extension"
+  },
+  "menuItemName": {
+    "message": "Play video without playlist",
+    "description": "Name of the context menu item that this extension creates"
+  }
+}

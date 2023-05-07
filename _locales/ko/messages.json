@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "YouTube No Playlist!",
+    "description": "확장자의 이름"
+  },
+  "extDescription": {
+    "message": "새 탭에서 재생 목록없이 YouTube 재생 목록 비디오를 엽니 다.",
+    "description": "확장에 대한 설명"
+  },
+  "menuItemName": {
+    "message": "재생 목록없이 비디오를 재생하십시오",
+    "description": "이 확장자가 생성하는 상황에 맞는 메뉴 항목의 이름"
+  }
+}
